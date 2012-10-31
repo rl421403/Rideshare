@@ -1,0 +1,20 @@
+/*********************
+RideShare Contact Form 7 STYLES
+*********************/
+#rideshare, #form {
+	p { text-indent: 0 !important; }
+	img { margin:0 !important; }
+}
+#rideshare {
+	.delete-link {
+		float:right;
+	}
+}
+.wpcf7-response-output {
+	margin:0;
+	width:100%;
+	float:left;
+}
+.edit-rideshare-link {
+	float:right;
+}
