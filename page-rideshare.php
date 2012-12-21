@@ -17,7 +17,7 @@ Template Name: Rideshare Page Template
 						<!-- start counter -->
 						<?php $c = 0; ?>
 						<!-- set post type & # of posts per page -->
-						<?php $args = array( 'post_type' => 'rideshare', 'posts_per_page' => '6' ); ?>
+						<?php $args = array( 'post_type' => 'rideshare', 'posts_per_page' => '6', 'paged' => $paged ); ?>
 						<?php $wp_query = new WP_Query( $args ); ?>
 						<!-- start loop -->
 						<?php while ( $wp_query->have_posts() ) : $wp_query->the_post(); ?>
