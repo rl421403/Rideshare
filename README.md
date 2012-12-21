@@ -8,10 +8,10 @@ I could give instructions, but I understand this code has a really customized us
 
 Attribution
 ===========
-Get form data from Contact Form 7 to a Wordpress Custom Post Type
-IAMRONEN
+Get form data from Contact Form 7 to a Wordpress Custom Post Type<br />
+IAMRONEN<br />
 http://www.odharma.com/2011/01/how-to-create-data-entry-forms-for-wordpress-with-contactform7/
 
-Custom Post Type & Bones
-Eddie Machado
+Custom Post Type & Bones<br />
+Eddie Machado<br />
 http://themble.com/bones/
